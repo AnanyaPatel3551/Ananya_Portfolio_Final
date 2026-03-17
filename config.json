@@ -1,0 +1,4 @@
+{
+  "allowedExtensions": [ "js","ts","jsx","tsx","py","java","c","cpp","cs","go","rb","php",
+  "swift","kt","kts","m","scala","sh","rs","lua","dart","html","css"]
+}
